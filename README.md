@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-=================
+
 <h1 align="center">
   GitHub Profile README Generator
 </h1>
@@ -48,17 +48,6 @@ Here are some ideas to get you started:
 </p>
 
 
-=======================================
-
-<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
-
-<p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
 
 
 
