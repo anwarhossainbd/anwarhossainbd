@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->anwar
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anwarhossainbd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
 
 
 <h1 align="center">
-  GitHub Profile README Generator
+  GitHub Profile of Md.Anwar Hossain
 </h1>
 
 <p align="center">
@@ -46,6 +45,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>
 </p>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=anwarhossainbd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
