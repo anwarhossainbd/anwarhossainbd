@@ -93,29 +93,13 @@ Here are some ideas to get you started:
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=anwarhossainbd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=anwarhossainbd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
 
 
 
-
-
-<!--
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>  
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>  -->
-
-
-
-
-
-
-## 📊 My Github Stats
 
 
 
