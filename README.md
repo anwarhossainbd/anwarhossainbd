@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">
+<h1 align="center" >
   GitHub Profile of Md.Anwar Hossain
 </h1>
 
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p align="center">
+<p align="right">
   
   ## Connect with me:
 
