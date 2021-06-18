@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/> </a> &nbsp; &nbsp;
    <a style="padding-right:8px;" href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/> </a> &nbsp; &nbsp;
    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> &nbsp; &nbsp;
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>&nbsp; &nbsp; 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
 
    
 </p>
