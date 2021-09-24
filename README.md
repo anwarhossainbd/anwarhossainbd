@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   GitHub Profile of Md.Anwar Hossain
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/anwarhossainbd/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
 </a>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/HHMs7Eg" target="blank">
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>
-</p>
+</p> -->
 
 
 ## 🙋‍♂️ About Me
