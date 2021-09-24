@@ -29,29 +29,9 @@ Here are some ideas to get you started:
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anwar Hossain</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
-<!-- <p align="center">
-<a href="https://github.com/anwarhossainbd/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
-</a>
-<a href="https://github.com/anwarhossainbd/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/anwarhossainbd/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/anwarhossainbd/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/anwarhossainbd/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-</p> -->
 
 
 ## 🙋‍♂️ About Me
