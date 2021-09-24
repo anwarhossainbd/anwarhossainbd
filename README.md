@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center" style="color:red" >
+<h1 align="center" style="Color:Red" >
   GitHub Profile of Md.Anwar Hossain
 </h1>
 
