@@ -106,7 +106,8 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p align="right">
+
+<p align="center">
   
   ## Connect with me:
 
