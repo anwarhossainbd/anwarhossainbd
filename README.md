@@ -107,14 +107,14 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<p>
   
   ## Connect with me:
 
-<a align="center" href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a align="center" href = "https://www.facebook.com/saeed.anowar.3348/" target="_blank"><img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
-  <a align="center" href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a align="center" href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a  href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a  href = "https://www.facebook.com/saeed.anowar.3348/" target="_blank"><img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
+<a  href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a  href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
