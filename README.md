@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarhossainbd) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarhossainbd)  -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
