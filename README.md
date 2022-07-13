@@ -1,26 +1,4 @@
 
-
-<!--
-**anwarhossainbd/anwarhossainbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React,NodeJs,Express and MongoDB
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
 <h1 align="center" style="Color:Red" >
  ❤ GitHub Profile of Md.Anwar Hossain ❤
 
@@ -59,14 +37,18 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" style="padding-right:10px;" />
+
+<img align="left" alt="Node Js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"" style="padding-right:10px;" />
 
 
 
@@ -76,13 +58,10 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left" > 
-     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp; &nbsp;
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp; &nbsp;
-    <a href="https://getbootstrap.com" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>&nbsp; &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp; &nbsp;
-    <a style="font-size:10px;" href="https://reactjs.org/" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> &nbsp; &nbsp;
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>&nbsp; &nbsp;
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  &nbsp; &nbsp; 
+   
+  
+   
+   
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> &nbsp; &nbsp; 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp; 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> &nbsp; &nbsp; 
