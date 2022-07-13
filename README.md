@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left" > 
-    <a href="https://www.w3.org/html/" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp; &nbsp;
-    <a href="https://www.w3schools.com/css/" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp; &nbsp;
+     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp; &nbsp;
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp; &nbsp;
     <a href="https://getbootstrap.com" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>&nbsp; &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp; &nbsp;
     <a style="font-size:10px;" href="https://reactjs.org/" width="25px" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> &nbsp; &nbsp;
