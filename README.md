@@ -48,7 +48,7 @@
 <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" style="padding-right:10px;" />
