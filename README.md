@@ -48,7 +48,7 @@
 
 <img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" style="padding-right:10px;" />
 
-<img align="left" alt="Node Js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"" style="padding-right:10px;" />
+<img align="left" alt="NodeJs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="padding-right:10px;" />
 
 
 
