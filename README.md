@@ -10,7 +10,7 @@
   <img width="40%" height="auto"   src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/292677783_100773789375373_5995333184319808999_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH2ZBfsc6cDWoujVl1OSM9ZVDYZ3_bGjZdUNhnf9saNl77pEZq817BfFugSECz2hnW9z5j432V70_FDszFob7DQ&_nc_ohc=8PLvr6-jdAgAX-gI9IH&_nc_ht=scontent.fdac140-1.fna&oh=00_AT8sJZuxPDejgYNBUUamRH1d5JTvrYoIM0b6VjmpNX6jbQ&oe=62D3B900" height="105px"/>
 </a>
   
-  </p>
+</p>
   
   
 
@@ -32,7 +32,7 @@
 
 
 
-## 🙋‍♂️ About Me
+
 
 
 
@@ -55,7 +55,6 @@
 <img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" style="padding-right:10px;" />
 <img align="left" alt="MySql" width="26px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="padding-right:10px;" />
 <img align="left" alt="MySql" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
-
 
 </p>
 
