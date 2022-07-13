@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
 <a href="#" >
-  <img width="50%" height="auto"   src="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/175429025_131298262341542_7510988185345465801_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHNNG6KQ75MxUX2x64JRk0F6cnR5Od49bXpydHk53j1te7bSZPTPH29zcATnC0G28qVuUxhXdJorZJSDMNTzFFF&_nc_ohc=Qd-xEAOknZsAX_xsQrd&_nc_ht=scontent.fdac14-1.fna&oh=5716ac7c76a6c829c284e1d405bbce7f&oe=61CD7A8F" height="145px"/>
+  <img width="50%" height="auto"   src="https://scontent.fdac140-1.fna.fbcdn.net/v/t39.30808-6/292677783_100773789375373_5995333184319808999_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH2ZBfsc6cDWoujVl1OSM9ZVDYZ3_bGjZdUNhnf9saNl77pEZq817BfFugSECz2hnW9z5j432V70_FDszFob7DQ&_nc_ohc=8PLvr6-jdAgAX-gI9IH&_nc_ht=scontent.fdac140-1.fna&oh=00_AT8sJZuxPDejgYNBUUamRH1d5JTvrYoIM0b6VjmpNX6jbQ&oe=62D3B900" height="145px"/>
 </a>
   
   </p>
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp; &nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> &nbsp; &nbsp;
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>&nbsp; &nbsp;
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  &nbsp; &nbsp; -->
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> &nbsp; &nbsp; -->
-<!--    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp; -->
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  &nbsp; &nbsp; 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> &nbsp; &nbsp; 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp; 
 <!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> &nbsp; &nbsp; -->
     <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/> </a> &nbsp; &nbsp;
    <a style="padding-right:8px;" href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/> </a> &nbsp; &nbsp;
