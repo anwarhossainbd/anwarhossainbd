@@ -1,20 +1,27 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anwar Hossain</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+#### Hello! I am Md.Anwar Hossain
+<br />
+
+A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities. I am a Passionate MERN Stack Developer and loved to solving Problems.
+
+❖ Expertise: JavaScript, ES6, React.js, REST API, React Bootstrap, Bootstrap4, HTML5, CSS3, Firebase, Express.js, MongoDB, Node.js.
+
+❖ Tools: Git, VS Code, Chrome Dev tool, Postman.
 
 
-
-<p>
-  
+<br />
+<br />
  
 ### Connect with me:
+  
+ 
 
-<a  href = "https://www.linkedin.com/in/md-anwar-hossain-891b35202/"><img width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a  href = "https://www.facebook.com/profile.php?id=100083282552243" target="_blank"><img target="_blank" width="20px" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
-<a  href = "https://t"><img width="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a  href = "[https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA](https://www.youtube.com/channel/UCU5uR60HrKkEBOszRVuPzPA)"><img width="20px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a  href = "https://www.linkedin.com/in/md-anwar-hossain-891b35202/"><img width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a  href = "https://www.facebook.com/profile.php?id=100083282552243" target="_blank"><img target="_blank" width="24px" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
+<a  href = "https://t"><img width="24px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a  href = "[https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA](https://www.youtube.com/channel/UCU5uR60HrKkEBOszRVuPzPA)"><img width="24px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-</p>
+
 
 
 
