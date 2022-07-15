@@ -93,6 +93,10 @@
 </p>
 
 
+![Python](<a  href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarhossainbd)  -->
 
 ## ❤ Views and Followers
