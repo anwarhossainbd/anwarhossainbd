@@ -1,8 +1,8 @@
 
 #### Hello! I am Md.Anwar Hossain
 
-A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities. I am a Passionate MERN Stack Developer and loved to solving Problems.
-❖ Expertise: JavaScript, ES6, React.js, REST API, React Bootstrap, Bootstrap4, HTML5, CSS3, Firebase, Express.js, MongoDB, Node.js.
+A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities. I am a Passionate MERN Stack Developer and loved to solving Problems.<br />
+❖ Expertise: JavaScript, ES6, React.js, REST API, React Bootstrap, Bootstrap4, HTML5, CSS3, Firebase, Express.js, MongoDB, Node.js.<br />
 ❖ Tools: Git, VS Code, Chrome Dev tool, Postman.
 
  
