@@ -4,18 +4,20 @@
 
 
 
-
+<p>
+  
+ 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="20px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="20px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a  href = "https://www.linkedin.com/in/md-anwar-hossain-891b35202/"><img width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a  href = "https://www.facebook.com/profile.php?id=100083282552243" target="_blank"><img target="_blank" width="20px" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
+<a  href = "https://t"><img width="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a  href = "[https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA](https://www.youtube.com/channel/UCU5uR60HrKkEBOszRVuPzPA)"><img width="20px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-<br />
+</p>
+
+
+
 
 
 
@@ -81,20 +83,8 @@
 
 
 
-<p>
-  
-  ## Connect with me:
-
-<a  href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a  href = "https://www.facebook.com/saeed.anowar.3348/" target="_blank"><img target="_blank" src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png"/></a> 
-<a  href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a  href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
 
 
-![Python](<a  href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anwarhossainbd)  -->
