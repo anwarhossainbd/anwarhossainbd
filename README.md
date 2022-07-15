@@ -13,6 +13,11 @@
 ![GitHub](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Facebook](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Youtube](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+
+![Youtube](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)&nbsp;
+
 <br />
 
 
